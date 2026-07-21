@@ -108,6 +108,8 @@ Adding a new playlist requires no changes to the JavaScript source code.
 
 The playlist will automatically appear in the application.
 
+## Live Demo
+https://spotify-by-arshiya.netlify.app
 
 ## Disclaimer
 
