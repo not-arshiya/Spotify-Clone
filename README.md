@@ -38,6 +38,7 @@ GitHub: https://github.com/not-arshiya
 If you enjoyed this project, feel free to star the repository!
 
 # Live Demo
+https://melodify-by-arshiya.pages.dev/
 
 # Disclaimer
 This project is created solely for educational and learning purposes. It is inspired by Spotify's user interface but is not affiliated with, endorsed by, or associated with Spotify. All trademarks, logos, and copyrighted material belong to their respective owners.
